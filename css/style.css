@@ -1,0 +1,58 @@
+body{
+    width:100%;
+}
+
+#haikubox{
+ margin:150px 0 0 300px;
+    font-family:'Muli', sans-serif;
+    background-color:white;
+}
+
+p{
+    font-size:20px;
+    color:#444;
+    margin:5px; 
+    padding-top:20px;
+    letter-spacing:1.5px;
+    
+}
+
+@media screen and (max-width:750px){
+    
+    #haikubox{
+        margin:100px 0 0 50px;
+    }
+    p{
+        font-size:20px;
+        padding-top:30px;
+    }
+    
+}
+@media screen and (max-width:600px){
+    
+    body{
+        width:90%;
+    }
+    
+    #haikubox{
+        width:100%;
+        margin-top:150px;
+    }
+
+    p{
+        padding-top:20px;
+    }
+
+    
+}
+
+@media screen and (max-width:450px){
+    p{
+        font-size:17px;
+    }
+    
+    #haikubox{
+        margin:  margin:150px 0 0 100px;
+    }
+    
+}

@@ -1,0 +1,7 @@
+[
+    { "template":"verb adjective noun"},
+    { "template":"preposition adjective noun"},
+    { "template":"adjective noun verb"},
+    { "template":"pronoun adjective noun"},
+    { "template":"preposition pronoun noun"},
+]

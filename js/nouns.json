@@ -1,0 +1,312 @@
+{
+    "nouns" : {
+        
+        "1" :
+        { "word" : "cat", "plural" : "cats" },
+        
+        "2" : 
+        { "word":"octopus", "plural":"octopi" },
+        
+        "3" : 
+        { "word":"pie", "plural":"pies" },
+        
+        "4" : 
+        { "tree":"pie", "plural":"trees" },
+    
+        "5" : 
+        { "word":"airplane", "plural":"airplanes" },
+        
+        "6" : 
+        { "word":"dolphin", "plural":"dolphins" },
+        
+        "7" : 
+        { "word":"raspberry", "plural":"raspberries" },
+        
+        "8" : 
+        { "word":"blueberry", "plural":"blueberries" },
+        
+        "9" : 
+        { "word":"yogurt", "plural":"yogurt" },
+        
+        "10" : 
+        { "word":"tree", "plural":"trees" },
+        
+        "11" : 
+        { "word":"balloon", "plural":"balloons" },
+        
+        "12" : 
+        { "word":"water", "plural":"water" },
+        
+        "13" : 
+        { "word":"beet", "plural":"beets" },
+        
+        "14" : 
+        { "word":"bear", "plural":"bears" },
+        
+        "15" : 
+        { "word":"android", "plural":"androids" },
+        
+        "16" : 
+        { "word":"barrel", "plural":"barrels" },
+        
+        "17" : 
+        { "word":"avalanche", "plural":"avalanches" },
+        
+        "18" :
+        { "word":"star", "plural":"stars" },
+                
+        "19" : 
+        { "word":"tsunami", "plural":"tsunamis" },
+        
+        "20" :
+        { "word":"peony", "plural":"peonies" },
+        
+        "21" :
+        { "word":"tangerine", "plural":"tangerines" },
+        
+        "22" :
+        { "word":"horse", "plural":"horses" },
+        
+        "23" :
+        { "word":"fritter", "plural":"fritters" },
+        
+        "24" :
+        { "word":"robot", "plural":"robots" },
+        
+        "25" :
+        { "word":"nacho", "plural":"nachos" },
+        
+        "26" :
+        { "word":"truffle", "plural":"truffles" },
+        
+        "27" :
+        { "word":"sunbeam", "plural":"sunbeams" },
+        
+        "28" :
+        { "word":"antler", "plural":"antlers" },
+
+        "29" :
+        { "word":"lemonade", "plural":"lemonade" },
+        
+        "30" :
+        { "word":"memebrane", "plural":"membranes" },
+        
+        "31" :
+        { "word":"rabbit", "plural":"rabbits" },
+        
+        "32" :
+        { "word":"cotton", "plural":"cotton" },
+        
+        "33" :
+        { "word":"cactus", "plural":"cactus" },
+        
+        "34" :
+        { "word":"paperclip", "plural":"paperclips" },
+        
+        "35" :
+        { "word":"shampoo", "plural":"shampoo" },
+        
+        "36" :
+        { "word":"gatorade", "plural":"gatorade" },
+        
+        "37" :
+        { "word":"sea monster", "plural":"sea monsters" },
+        
+        "38" :
+        { "word":"dolphin", "plural":"dolphin" },
+        
+        "39" :
+        { "word":"pig", "plural":"pigs" },
+        
+        "40" :
+        { "word":"pangolin", "plural":"pangolins" },
+        
+        "41" :
+        { "word":"toaster", "plural":"toasters" },
+        
+        "42" :
+        { "word":"botanist", "plural":"boatanists" },
+        
+        "43" :
+        { "word":"lemon", "plural":"lemons" },
+        
+        "44" :
+        { "word":"queen", "plural":"queens" },
+        
+        "45" :
+        { "word":"optometrist", "plural":"optometrists" },
+        
+        "46" :
+        { "word":"beaurocrat", "plural":"beaurocrats" },
+        
+        "47" :
+        { "word":"ukulele", "plural":"ukuleles" },
+        
+        "48" :
+        { "word":"zucchini", "plural":"zucchinis" },
+        
+        "49" :
+        { "word":"waffle", "plural":"waffles" },
+        
+        "50" :
+        { "word":"dentist", "plural":"dentists" },
+        
+        "51" :
+        { "word":"whale", "plural":"whales" },
+        
+        "52" :
+        { "word":"broccoli", "plural":"broccoli" },
+        
+        "53" :
+        { "word":"nugget", "plural":"nuggets" },
+        
+        "54" :
+        { "word":"bug", "plural":"bugs" },
+        
+        "55" :
+        { "word":"icicle", "plural":"icicles" },
+        
+        "56" :
+        { "word":"puppy", "plural":"puppies" },
+        
+        "57" :
+        { "word":"shortbread", "plural":"shortbreads" },
+        
+        "58" :
+        { "word":"finger", "plural":"fingers" },
+        
+        "59" :
+        { "word":"latte", "plural":"lattes" },
+        
+        "60" :
+        { "word":"bicycle", "plural":"bicycles" },
+        
+        "61" :
+        { "word":"offender", "plural":"offenders" },
+        
+        "62" :
+        { "word":"yam", "plural":"yams" },
+        
+        "63" :
+        { "word":"avocado", "plural":"avocadoes" },
+        
+        "64" :
+        { "word":"dumpling", "plural":"dumplings" },
+        
+        "65" :
+        { "word":"moment", "plural":"moments" },
+        
+        "66" :
+        { "word":"corgi", "plural":"corgis" },
+        
+        "67" :
+        { "word":"toothpaste", "plural":"toothpaste" },
+        
+        "68" :
+        { "word":"juice", "plural":"juices" },
+        
+        "69" :
+        { "word":"teapot", "plural":"teapots" },
+        
+        "70" :
+        { "word":"scale", "plural":"scales" },
+        
+        "71" :
+        { "word":"persimmon", "plural":"persimmons" },
+        
+        "72" :
+        { "word":"unicorn", "plural":"unicorns" },
+        
+        "73" :
+        { "word":"anteater", "plural":"anteaters" },
+        
+        "74" :
+        { "word":"milkshake", "plural":"milkshakes" },
+        
+        "75" :
+        { "word":"eurovan", "plural":"eurovans" },
+        
+        "76" :
+        { "word":"goat", "plural":"goats" },
+        
+        "77" :
+        { "word":"pebble", "plural":"pebbles" },
+        
+        "78" :
+        { "word":"pancake", "plural":"pancakes" },
+        
+        "79" :
+        { "word":"skyscraper", "plural":"skyscrapers" },
+        
+        "80" :
+        { "word":"noodle", "plural":"noodles" },
+        
+        "81" :
+        { "word":"moon", "plural":"moons" },
+        
+        "82" :
+        { "word":"salad", "plural":"salads" },
+        
+        "83" :
+        { "word":"stardust", "plural":"stardust" },
+        
+        "84" :
+        { "word":"walrus", "plural":"walruses" },
+        
+        "85" :
+        { "word":"penguin", "plural":"penguins" },
+        
+        "86" :
+        { "word":"astronaut", "plural":"astronauts" },
+        
+        "87" :
+        { "word":"porcupine", "plural":"porcupines" },
+    
+        "88" :
+        { "word":"toenail", "plural":"toenails" },
+
+        "89" :
+        { "word":"otter", "plural":"otters" },
+    
+        "90" :
+        { "word":"aloe", "plural":"aloes" },
+    
+        "91" :
+        { "word":"cigarette", "plural":"cigarettes" },
+    
+        "92" :
+        { "word":"table", "plural":"tables" },
+
+        "93" :
+        { "word":"shrine", "plural":"shrines" },
+
+        "94" :
+        { "word":"altar", "plural":"altars" },
+    
+        "95" :
+        { "word":"almond", "plural":"almonds" },
+    
+        "96" :
+        { "word":"snack", "plural":"snacks" },
+    
+        "97" :
+        { "word":"bagel", "plural":"bagels" },
+    
+        "98" :
+        { "word":"dolphin", "plural":"dolphin" },
+        
+        "99" :
+        { "word":"toilet", "plural":"toilets" },
+    
+        "100" :
+        { "word":"sneaker", "plural":"sneakers" }, 
+    
+        "101" :
+        { "word": "dog", "plural":"dogs" },
+        
+        "102" :
+        { "word":"paperweight", "plural":"paperweights" }
+    
+    }
+}
+    
